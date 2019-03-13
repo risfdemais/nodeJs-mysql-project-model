@@ -1,7 +1,7 @@
 {
   "name": "global-opsi",
   "version": "1.0.0",
-  "description": "O cliente vai fazer o upload do arquivo. associa a um mes ano. processa o arquivo e salva os dados já prontos para serem gerados por excel. ele entra em uma tela de download e escolhe os arquivos por mes ano e por empresa",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
